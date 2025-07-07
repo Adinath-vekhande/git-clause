@@ -1,2 +1,4 @@
 # git-clause
-sdsa
+My name IS Adinath Ravindra Vekhande
+A business tycoon
+
